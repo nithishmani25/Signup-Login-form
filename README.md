@@ -18,7 +18,7 @@ This project is a visually appealing **signup** and **login** form featuring smo
 
 ## Screenshots
 ### Login Form
-![Login Form](SignUp-Login-Form/Application-Screenshots/Login1.png)
+![Login Form](SignUp-Login-Form-main/SignUp-Login-Form/Application-Screenshots)
 ![Login Form](SignUp-Login-Form/Application-Screenshots/Login2.png)
 
 ### Signup Form
